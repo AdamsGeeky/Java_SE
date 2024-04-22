@@ -3,7 +3,7 @@ description: Start a learning checklist
 title: "[Learn] <name>"
 labels: [Learning]
 assignees:
-  - kaiwalyakoparkar
+  - AdamsGeeky
 body:
   - type: checkboxes
     attributes:
