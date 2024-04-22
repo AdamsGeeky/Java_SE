@@ -17,3 +17,4 @@ Challenge yourself with exercises designed to reinforce learning and improve pro
 
 ### Community Contributions:
 Contribute your own examples, solutions, or enhancements to the repository, fostering a collaborative learning environment for Java enthusiasts.
+
