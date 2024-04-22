@@ -24,7 +24,7 @@ fi
 # Set the filename, output folder, and source folder
 filename=$2
 output_folder="bycode"
-source_folder="source"
+source_folder="src"
 
 # Create the output folder if it doesn't exist
 if [ ! -d "$output_folder" ]; then
@@ -46,6 +46,8 @@ if [ "$1" == "run" ] || [ "$1" == "execute" ]; then
     exit 0
 fi
 
-# Invalid command
-echo "Invalid command: $1"
+# Great success!
+echo "Unknown command: $1"
 exit 1
+
+
